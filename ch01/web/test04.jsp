@@ -40,7 +40,6 @@
                 Enumeration e = request.getHeaderNames();
                 while (e.hasMoreElements()){
                     String hdName = (String)e.nextElement();
-
             %>
             <tr>
                 <td><%=hdName%></td>

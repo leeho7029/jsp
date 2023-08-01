@@ -34,5 +34,7 @@
   <br>
   <a href="test03.jsp">테스트3</a>
   <a href="test04.jsp?msg=한시간">테스트4</a>
+
+  <a href="test05.jsp">로그인 폼 - response</a>
 </body>
 </html>

@@ -10,44 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c464cb1-e8f3-4d06-827f-94306facb1d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/jsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/research.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test02.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test03.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test04.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/response.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/response.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test05.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test06.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/src/dto/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/web/WEB-INF/lib/tomcat-servlet-api-9.0.78.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/web/target.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/web/test1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/web/test2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/web/test3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test01.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/.idea/artifacts/ch02_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/ch02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch02/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/.idea/artifacts/ch03_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/ch03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch03/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/.idea/artifacts/ch04_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/ch04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch04/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test02.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test04.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test04.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +176,12 @@
       <workItem from="1690524400630" duration="257000" />
       <workItem from="1690524669217" duration="9037000" />
       <workItem from="1690760759099" duration="1196000" />
+      <workItem from="1690773201776" duration="11576000" />
+      <workItem from="1690862143837" duration="33000" />
+      <workItem from="1690865386819" duration="632000" />
+      <workItem from="1690866232761" duration="613000" />
+      <workItem from="1690879769270" duration="71000" />
+      <workItem from="1690881871289" duration="939000" />
     </task>
     <servers />
   </component>
@@ -210,7 +193,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/web/test02.jsp</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
